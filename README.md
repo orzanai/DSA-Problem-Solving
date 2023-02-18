@@ -16,7 +16,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd DSA-Problem-Solving
 ```
 
 Install dependencies
@@ -34,7 +34,7 @@ Start the server
 
 ## Feedback
 
-If you have any feedback, please reach out to us at abdullahorzan@gmail.com
+If you have any feedback, please reach out to me at abdullahorzan@gmail.com
 
 
 ## License
